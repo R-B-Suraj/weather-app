@@ -1,0 +1,1 @@
+get instant feedback on weather type city name
